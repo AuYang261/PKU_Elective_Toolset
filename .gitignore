@@ -170,6 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+out/
 log.txt
 cookie.txt
 xh.txt
